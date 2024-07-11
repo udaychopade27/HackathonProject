@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_aws_project",
+  "version": "1.0.0",
+  "description": "Node.js project with AWS RDS integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.978.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.19.2",
+    "mysql2": "^2.3.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
